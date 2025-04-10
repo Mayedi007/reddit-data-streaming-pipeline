@@ -53,3 +53,6 @@ First clone the repository into your home directory and follow the steps.
 1. [Dashboard](instructions/visualisation.md)
 1. [Final Notes & Termination](instructions/terminate.md)
 1. [Improvements](instructions/improvements.md)
+
+> 🛠 This project was inspired by [ABZ-Aaron's Reddit API Pipeline](https://github.com/ABZ-Aaron/Reddit-API-Pipeline). I extended and adapted it to explore streaming data workflows, modular code structure, and API integration.
+
